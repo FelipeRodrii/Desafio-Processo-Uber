@@ -15,3 +15,6 @@ Python(Pandas, Pandasql) - Criação e maniopulação de Dataframe utilizando co
 
 * Resultado final da nossa query trazendo o que foi pedido na resolução de nosso desafio técnico.
   <p align="center"><img src= "img/result.png" width = "600px"/></p>
+
+## Conclusão
+Este foi apenas um pequeno projeto com o intuito de estar simulando uma demanda real, este e um dos desafios propostos no processo seletivo da uber.
